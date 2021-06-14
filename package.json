@@ -1,6 +1,6 @@
 {
   "name": "hxh-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端脚手架",
   "main": "src/main.js",
   "repository": "https://github.com/hxh2010/hxh-cli.git",
