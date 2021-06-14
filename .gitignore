@@ -1,0 +1,16 @@
+.idea
+.vscode
+logs
+*.log
+*.log.*
+node_modules/
+coverage/
+lib/
+lib-es/
+dist/
+examples/build
+*.tsbuildinfo
+.DS_Store
+.docz
+.doc
+yarn.lock
